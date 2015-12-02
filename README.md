@@ -1,2 +1,1 @@
-# jackrabbit-oak
-Apache CMS project Jackrabbit Oak
+Apache CMS project Jackrabbit Oak as a Docker image
