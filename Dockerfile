@@ -1,0 +1,1 @@
+#bassoman/jackrabbit-oak
